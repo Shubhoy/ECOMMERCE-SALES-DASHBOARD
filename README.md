@@ -4,3 +4,5 @@ The "Analyzed E-commerce Sales Dashboard" project involved the creation of an in
 Madhav wants to know about the sales of his ecommerce website that what is the sales percentage year by year, month by month and what type of products purchase most by the customers. So they can know about the sales and understand their customers and grow more sales in coming years.
 ## Dataset
 https://github.com/Shubhoy/ECOMMERCE-SALES-DASHBOARD/blob/main/Details.csv
+## Dashboard Interaction
+<a https://github.com/Shubhoy/ECOMMERCE-SALES-DASHBOARD/blob/main/Ecommerce%20Sales%20Dashboard.pdf> viewdashboard</a>
